@@ -124,7 +124,7 @@ Training Setup
 | ----------------------- | ----------------------------------------- |
 | **Bhuvan S**            | 4MH22CA009                                |
 | **Thilak R**            | 4MH22CA057                                |
-| **Prajwal Koundinya P** | 4MH22CA031                                |
+| **Prajwal Koundinya P** | 4MH22CA032                                |
 
 
 
