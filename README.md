@@ -82,7 +82,7 @@ Displays:
 ---
 
 ## Project Structure
-
+```
 NeuroScan-AI/
 │── appy.py                    # Main GUI application
 │── dense_model.pth            # Trained DenseNet model
@@ -90,7 +90,7 @@ NeuroScan-AI/
 │── requirements.txt
 │── densenet_train.ipynb
 
-
+```
 ---
 
 ## 🧪 Model Details
