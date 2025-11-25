@@ -1,0 +1,6 @@
+tk
+pillow
+torch
+torchvision
+pytorch-grad-cam
+numpy

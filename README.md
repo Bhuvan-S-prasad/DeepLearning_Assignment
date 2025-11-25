@@ -84,11 +84,11 @@ Displays:
 ## Project Structure
 
 NeuroScan-AI/
-│── app.py                     # Main GUI application
+│── appy.py                    # Main GUI application
 │── dense_model.pth            # Trained DenseNet model
 │── README.md                  # Documentation
 │── requirements.txt
-│── DenseNet.ipynb
+│── densenet_train.ipynb
 
 
 ---
